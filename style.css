@@ -1,3 +1,18 @@
-p{
-    color: red;
+.logo{
+    width: 4em;
+}
+
+.carousel{
+    height: 100vh;
+}
+.carousel-item{
+    height:95vh;
+}
+.section-2{
+    padding-top: 10px;
+    
+}
+.row{
+    justify-content: space-evenly;
+
 }
